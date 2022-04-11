@@ -27,6 +27,8 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "description": "instagram using react native",
+    "githubUrl": "https://github.com/Sagarbawane"
   }
 }
